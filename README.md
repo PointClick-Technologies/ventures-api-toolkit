@@ -1,6 +1,6 @@
 # Ventures API Toolkit
 
-A client-neutral, open-source toolkit for validating and exploring the [Ventures](https://venturesgo.com) API. Built by [PointClick Technologies](https://pointclicktech.com).
+A client-neutral, open-source toolkit for validating and exploring the [Ventures](https://venturesgo.com) API. Built by [PointClick Technologies](https://www.pointclick.net).
 
 ## What It Is
 
@@ -66,7 +66,7 @@ Manage site profiles for multiple Ventures instances. Each profile stores a base
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/ventures-api-toolkit.git
+git clone https://github.com/PointClick-Technologies/ventures-api-toolkit.git
 cd ventures-api-toolkit
 npm install
 ```

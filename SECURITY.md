@@ -5,7 +5,7 @@
 If you discover a security vulnerability in the Ventures API Toolkit, please report it responsibly:
 
 1. **Do not** open a public GitHub issue.
-2. Email your findings to security@pointclicktech.com.
+2. Email your findings to security@pointclick.net.
 3. Include a clear description of the vulnerability, steps to reproduce, and potential impact.
 4. Allow up to 72 hours for an initial response.
 
